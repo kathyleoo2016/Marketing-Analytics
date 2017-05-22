@@ -3,19 +3,23 @@
 ![screen shot 2017-05-22 at 4 04 02 pm](https://cloud.githubusercontent.com/assets/17469234/26332340/fa1299ea-3f0a-11e7-878f-3b294b3b3a92.png)
 
 * Models to learn
-  *Predictive analytics – Regression analysis
-  *Segmentation and targeting – Clustering and discriminant analysis (variance)
-  *Positioning – Factor analysis (correlation)
-  *Sales forecasting – Bass forecasting model (PDF and CDF)
-  *Experimental Design– Bayes theorem
-  *Direct marketing – Binary Logit model
-  *Competitive Analysis – Multinomial Logit model (eg: discrete choices)
+  * Predictive analytics – Regression analysis
+  * Segmentation and targeting – Clustering and discriminant analysis (variance)
+  * Positioning – Factor analysis (correlation)
+  * Sales forecasting – Bass forecasting model (PDF and CDF)
+  * Experimental Design– Bayes theorem
+  * Direct marketing – Binary Logit model
+  * Competitive Analysis – Multinomial Logit model (eg: discrete choices)
 
 * Data type
   1. Supervised vs unsupervised
   1. Primary Data vs Secondary data
-    *Primary data: What you will do
-    *Secondary data: What you have done
+    * Primary data: What you will do
+    * Secondary data: What you have done
   1. Individual  vs Aggregated data
   
 
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
