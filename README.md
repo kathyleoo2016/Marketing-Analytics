@@ -14,8 +14,8 @@
 * Data type
   1. Supervised vs unsupervised
   1. Primary Data vs Secondary data
-    * Primary data: What you will do
-    * Secondary data: What you have done
+     * Primary data: What you will do
+     * Secondary data: What you have done
   1. Individual  vs Aggregated data
   
 
