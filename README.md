@@ -18,5 +18,6 @@
      * Secondary data: What you have done
   1. Individual  vs Aggregated data
   
- * Other tips: For a business with regular customer behavior, the most critical thing is not to retain customer, but how to attract new customer
+ * Other tips: 
+  1. For a business with regular customer behavior, the most critical thing is not to retain customer, but how to attract new customer
 
