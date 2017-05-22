@@ -7,19 +7,17 @@
   * Segmentation and targeting – Clustering and discriminant analysis (variance)
   * Positioning – Factor analysis (correlation)
   * Sales forecasting – Bass forecasting model (PDF and CDF)
-  * Experimental Design– Bayes theorem
+  * Experimental Design– Bayes theorem (eg: market attribution)
   * Direct marketing – Binary Logit model
   * Competitive Analysis – Multinomial Logit model (eg: discrete choices)
 
 * Data type
   1. Supervised vs unsupervised
   1. Primary Data vs Secondary data
-     * Primary data: What you will do
+     * Primary data: What you will do; expensive
      * Secondary data: What you have done
   1. Individual  vs Aggregated data
   
+  * Other tips
+    For a business with regular customer behavior, the most critical thing is not to retain customer, but how to attract new customer
 
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
