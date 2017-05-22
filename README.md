@@ -11,8 +11,14 @@
 * Competitive Analysis – Multinomial Logit model (eg: discrete choices)
 
 * Data type
-  l. Supervised vs unsupervised
-  l. Primary Data vs Secondary data
+  1. Supervised vs unsupervised
+  1. Primary Data vs Secondary data
     *Primary data: What you will do
     *Secondary data: What you have done
-  l. Individual  vs Aggregated data
+  1. Individual  vs Aggregated data
+  
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
