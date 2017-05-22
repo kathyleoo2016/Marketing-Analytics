@@ -9,4 +9,10 @@
 * Experimental Design– Bayes theorem
 * Direct marketing – Binary Logit model
 * Competitive Analysis – Multinomial Logit model (eg: discrete choices)
-* Other topics, time permitted
+
+* Data type
+  l. Supervised vs unsupervised
+  l. Primary Data vs Secondary data
+    *Primary data: What you will do
+    *Secondary data: What you have done
+  l. Individual  vs Aggregated data
