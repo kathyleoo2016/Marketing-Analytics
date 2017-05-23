@@ -22,3 +22,6 @@
    1. For a business with regular customer behavior, the most critical thing is not to retain customer, but how to attract new customer
 
 ![](http://latex.codecogs.com/gif.latex?y%20%3D%7B%5Cbeta%7D_%7B0%7D%20&plus;%20%7B%5Cbeta%7D_%7B1%7D%20Price%20&plus;%20%7B%5Cbeta%7D_%7B2%7D%20Promotion%20&plus;%20%5Cvarepsilon)
+
+
+> This is the blockquote with two page
